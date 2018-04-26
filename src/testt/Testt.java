@@ -16,6 +16,7 @@ public class Testt {
      */
     public static void main(String[] args) {
         System.out.println("HElloo Wolrd");
+        System.out.println("Heloo");
     }
     
 }
